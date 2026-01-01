@@ -146,3 +146,4 @@ export function SubjectBarChart({ data }: BarChartProps) {
 
 
 
+
